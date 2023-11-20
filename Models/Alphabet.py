@@ -1,4 +1,5 @@
 from Models.Latter import Latter
+
 import string
 class Alphabet:
     def __init__(self):
